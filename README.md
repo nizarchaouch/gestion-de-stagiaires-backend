@@ -106,7 +106,7 @@ npm start
 ## Project Structure
 
 ```bash
-internship-management-backend/
+gestion-de-stagiaires-backend/
 ├── Admin/
 ├── Assigner/
 ├── Deamande/
